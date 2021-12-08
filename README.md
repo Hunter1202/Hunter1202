@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hunter1202
-- 👀 I’m interested in coding
+- 👋 Hi, I’m TrucLa~
+- 👀 I’m interested in coding and music 
 - 🌱 I’m currently learning IT
 - 💞️ 
 - 📫
