@@ -1,6 +1,6 @@
-- 👋 Hi, I’m TrucLa~
-- 👀 I’m interested in coding and music 
-- 🌱 I’m currently learning IT
+- 👋 Hi
+- 👀  
+- 🌱 
 - 💞️ 
 - 📫
 
