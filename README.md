@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Hunter1202
 - 👀 I’m interested in coding and music
-- 🌱 
-- 💞️ 
-- 📫 Here is my personal website: [...](https://trucla-on-da-web.glitch.me/)
+- 📫 Check out my personal website: [...](https://trucla-on-da-web.glitch.me/)
 
 <!---
 Hunter1202/Hunter1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
