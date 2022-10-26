@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hunter1202
-- 👀 I’m interested in coding and music
+- 👀 
 - 📫 Check out my personal website: [...](https://trucla-on-da-web.glitch.me/)
 
 <!---
