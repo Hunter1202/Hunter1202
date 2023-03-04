@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Hunter1202
-- 👀 
-- 📫 Check out my personal website: [...](https://trucla-on-da-web.glitch.me/)
+- 👀 Currently learning progamming to understand progamming joke :v
+- 📫 
 
