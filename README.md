@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Hunter1202
-- 👀 Currently learning progamming to understand progamming joke :v
-- 📫 
+I'm intern I deleted database by mistake and I need to apologize to the project manager
 
